@@ -1,0 +1,6 @@
+[
+  {"id": 1, "title": "Тропа вдоль Усманки", "category": "пеший", "amount": 8, "completed": true},
+  {"id": 2, "title": "Маршрут по дубраве", "category": "пеший", "amount": 12, "completed": false},
+  {"id": 3, "title": "Велокруг у водохранилища", "category": "велосипедный", "amount": 24, "completed": false},
+  {"id": 4, "title": "Сплав по Дону", "category": "водный", "amount": 10, "completed": true}
+]
